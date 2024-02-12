@@ -7,4 +7,5 @@ buncha configs for stuff
 - jetbrains nerd mono
 - google-fonts
 - font-awesome
+## Doom Emacs
 ![](emacs.png)
