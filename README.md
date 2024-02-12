@@ -7,3 +7,4 @@ buncha configs for stuff
 - jetbrains nerd mono
 - google-fonts
 - font-awesome
+![](emacs.png)
