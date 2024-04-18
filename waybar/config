@@ -137,7 +137,7 @@
     "custom/power": {
         "format": "󰤆",
         "tooltip": false,
-        "on-click": "exec wlogout"
+        "on-click": "archlinux-logout"
     },
 
     "backlight": {
