@@ -2,7 +2,7 @@
 buncha configs for stuff
 # Current setup
 [image](https://github.com/Haize-uwu/hyprland/assets/84086558/16865f52-7c99-4eff-88ff-c0cd44e378d4)
-)
+
 
 # old
 ![](img.png)
