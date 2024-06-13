@@ -1,6 +1,6 @@
 # hyprland - NixOS
 buncha configs for stuff
-# Current setup
+# Current setup - Arch
 ![image](https://github.com/Haize-uwu/hyprland/assets/84086558/16865f52-7c99-4eff-88ff-c0cd44e378d4)
 
 
