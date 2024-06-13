@@ -1,7 +1,8 @@
 # hyprland - NixOS
 buncha configs for stuff
 # Current setup
-![image](https://github.com/Haize-uwu/hyprland/assets/84086558/81409cc0-e1b5-48e0-a8f9-fba3a25d1fac)
+[image](https://github.com/Haize-uwu/hyprland/assets/84086558/16865f52-7c99-4eff-88ff-c0cd44e378d4)
+)
 
 # old
 ![](img.png)
@@ -12,7 +13,8 @@ buncha configs for stuff
 - google-fonts
 - font-awesome
 ## Doom Emacs
-![](emacs.png)
+![image](https://github.com/Haize-uwu/hyprland/assets/84086558/c0e50ed3-04e6-444a-9723-bec4e5cec808)
+)
 
 ## Future work - Vim colour scheme
 - for reference https://speakerdeck.com/cocopon/creating-your-lovely-color-scheme
