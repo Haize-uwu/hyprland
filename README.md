@@ -15,6 +15,11 @@ buncha configs for stuff
 )
 
 ## Future work - Vim colour scheme
+finally done <br/>
+**Neovim Theme**
+[ephemeral nvim](https://github.com/Haize-uwu/ephemeral.nvim)
+- Inspired by doom emacs ephemeral theme
+
 - for reference https://speakerdeck.com/cocopon/creating-your-lovely-color-scheme
 - https://github.com/lifepillar/vim-colortemplate
 ---
