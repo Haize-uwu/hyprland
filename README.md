@@ -17,3 +17,6 @@ buncha configs for stuff
 ## Future work - Vim colour scheme
 - for reference https://speakerdeck.com/cocopon/creating-your-lovely-color-scheme
 - https://github.com/lifepillar/vim-colortemplate
+---
+# labwc setup on arch
+![image](https://github.com/Haize-uwu/hyprland/assets/84086558/e2f808df-749d-4534-9435-fc4c6eaf9fdf)
